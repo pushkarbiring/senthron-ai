@@ -94,6 +94,7 @@ python 03_senthron_live.py
 
 ---
 
-## 👨‍💻 Author
+## ⚠️ License Notice
 
-Senthron AI Project
+This project is intended for **research and educational purposes only**.  
+Commercial use is strictly prohibited without permission.
