@@ -22,7 +22,7 @@ This project works in 3 main stages:
 
 ## ⚙️ Requirements
 
-- Python 3.8+
+- Python 3.10+
 - pip
 
 ### Install dependencies:
