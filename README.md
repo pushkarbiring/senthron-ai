@@ -74,20 +74,14 @@ python 03_senthron_live.py
 
 ## 🤝 Contributors
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/username"><b>Pushkar Biring</b></a></td>
-    <td align="center"><a href="https://github.com/username"><b>Jarif Rahaman</b></a></td>
-    <td align="center"><a href="https://github.com/username"><b>Pritam Debnath</b></a></td>
-    <td align="center"><a href="https://github.com/username"><b>Bipasa Routh</b></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/username"><b>Sanchita Ghosh</b></a></td>
-    <td align="center"><a href="https://github.com/username"><b>Moyukh Biswas</b></a></td>
-    <td align="center"><a href="https://github.com/username"><b>Aniket Das</b></a></td>
-    <td align="center"><a href="https://github.com/username"><b>Ashfaque Ahamed Khan</b></a></td>
-  </tr>
-</table>
+- [Pushkar Biring](https://github.com/pushkarbiring)
+- [Jarif Rahaman](https://github.com/jarifrahaman)
+- [Pritam Debnath](https://github.com/pritam-42)
+- [Bipasa Routh](https://github.com/username)
+- [Sanchita Ghosh](https://github.com/sanchita44)
+- [Moyukh Biswas](https://github.com/moyukhbiwas1-shp-it)
+- [Aniket Das](https://github.com/Aniketdas744)
+- [Ashfaque Ahamed Khan](https://github.com/Ashfaque2006)
 
 ---
 
