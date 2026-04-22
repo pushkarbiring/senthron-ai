@@ -77,7 +77,7 @@ python 03_senthron_live.py
 - [Pushkar Biring](https://github.com/pushkarbiring)
 - [Jarif Rahaman](https://github.com/jarifrahaman)
 - [Pritam Debnath](https://github.com/pritam-42)
-- [Bipasa Routh](https://github.com/username)
+- [Bipasa Routh](https://github.com/itisbipasha)
 - [Sanchita Ghosh](https://github.com/sanchita44)
 - [Moyukh Biswas](https://github.com/moyukhbiwas1-shp-it)
 - [Aniket Das](https://github.com/Aniketdas744)
