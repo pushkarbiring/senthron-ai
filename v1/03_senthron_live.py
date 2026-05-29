@@ -124,5 +124,6 @@ while True:
  
 cap.release()
 cv2.destroyAllWindows()
-print("For More Visit : https://pushkarbiring.github.io/senthron")
-print("Thanks for using SENTHRON, See you next time!")
+import webbrowser
+print("Thanks for using \033]8;;https://github.com/pushkarbiring/senthron-ai\033\\SENTHRON\033]8;;\033\\, See you next time!")
+webbrowser.open("https://github.com/pushkarbiring/senthron-ai")
